@@ -3,6 +3,7 @@
 - Dennys Flores Lopez
 - Jonathan Figueroa Peñarrieta
 - Omar Hinojosa Ballon
+- Roberto Pinto Andia
 
 # trabajo-final
 
