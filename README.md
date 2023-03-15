@@ -1,7 +1,8 @@
 # Integrantes
 
--Dennys Flores Lopez
-
+- Dennys Flores Lopez
+- Jonathan Figueroa Peñarrieta
+- Omar Hinojosa Ballon
 
 # trabajo-final
 
